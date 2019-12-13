@@ -46,7 +46,7 @@ opt <-  theme(legend.position  = "none",
 ### being forced ABOVE .5. perhaps the function works counterintuitively.
 
 #best case scenario, the loop will build 100 pieces of art.
-#it will take about an hour to get through the whole thing.
+#it will take about two hours to get through the whole thing.
 #i like to do it before i go to bed, so my laptop's fan
 #becomes a nice white noise track for sleeping
 iterations <- 100
